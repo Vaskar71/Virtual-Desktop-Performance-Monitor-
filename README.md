@@ -63,12 +63,6 @@ Contributions are welcome! To contribute:
 4. Push the branch and open a Pull Request.
 Please follow the existing code style and add documentation as needed.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact/Support
-For questions or support, please open an issue on GitHub or contact [your-email@example.com](mailto:your-email@example.com).
-
 ## Credits/Acknowledgments
 - [psutil](https://github.com/giampaolo/psutil) for providing robust system monitoring capabilities.
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) for the built-in GUI framework.
