@@ -1,4 +1,7 @@
 # Virtual Desktop Performance Monitor
+
+<img width="362" alt="Image" src="https://github.com/user-attachments/assets/1e315cab-bd9e-4808-93ef-98083ef70fc0" />
+
 > A real-time system performance monitoring desktop application built in Python.
 
 ## Description
