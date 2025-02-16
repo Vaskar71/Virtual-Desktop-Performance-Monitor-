@@ -71,5 +71,4 @@ Please follow the existing code style and add documentation as needed.
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) for the built-in GUI framework.
 - Inspiration from various beginner-friendly real-time monitoring projects.
 
-## Screenshots
-Add project screenshots here to showcase the UI:
+
