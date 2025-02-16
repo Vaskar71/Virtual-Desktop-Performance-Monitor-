@@ -44,7 +44,6 @@ When you run the application, a window will appear displaying real-time performa
 - **Network Usage (Bytes Sent/Received)**
 - A log panel shows each update and all data is saved to `performance_log.csv`.
 
-Feel free to modify the code to add more metrics or adjust the user interface.
 
 ## Features
 - **Real-time Monitoring:** Continuously updates system performance metrics.
