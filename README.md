@@ -5,7 +5,7 @@
 > A real-time system performance monitoring desktop application built in Python.
 
 ## Description
-Virtual Desktop Performance Monitor is a Python desktop application that continuously monitors your system's CPU, memory, and network usage. It displays performance metrics in a user-friendly Tkinter GUI and logs data to a CSV file for further analysis. Ideal for beginners and those interested in real-time system monitoring.
+Virtual Desktop Performance Monitor is a Python desktop application that continuously monitors your system's CPU, memory, and network usage. It displays performance metrics in a user-friendly Tkinter GUI and logs data to a CSV file for further analysis. 
 
 ## Table of Contents
 - [Installation/Getting Started](#installationgetting-started)
